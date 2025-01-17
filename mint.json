@@ -1,6 +1,13 @@
 {
+  "font": {
+    "family": "Open Sans"
+  },
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
+  },
   "logo": {
     "dark": "/logo/logo-light-dark.svg",
     "light": "/logo/logo-light-dark.svg"
